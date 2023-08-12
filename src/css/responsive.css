@@ -1,0 +1,10 @@
+@media(max-width:555px) {
+    section {
+        width: 70%;
+    }
+
+    #foto #image {
+        width: 80%;
+        height: 200px;
+    }
+}
